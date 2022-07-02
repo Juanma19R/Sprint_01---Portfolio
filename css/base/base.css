@@ -1,4 +1,8 @@
 :root{
-    --color-background: #F5F5F5;
-    --color-link: #000;
+    --cor-de-fundo:#F5F5F5;
+    --cor-de-link:#000;
+    --color-titulos:#464646;
+    --color-fondo-azul: #eaf2fd;
+    --color-caja: #fbfbfb;
+    --azul-botones: #2a7ae4;
 }
